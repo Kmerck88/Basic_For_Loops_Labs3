@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Grand_Circus\\Unit_Two_Lab\\Basic For-Loops Lab\\Basic For-Loops Labs3\\Basic For-Loops Labs3\\Basic For-Loops Labs3.csproj": {}
+  },
+  "projects": {
+    "C:\\Grand_Circus\\Unit_Two_Lab\\Basic For-Loops Lab\\Basic For-Loops Labs3\\Basic For-Loops Labs3\\Basic For-Loops Labs3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Grand_Circus\\Unit_Two_Lab\\Basic For-Loops Lab\\Basic For-Loops Labs3\\Basic For-Loops Labs3\\Basic For-Loops Labs3.csproj",
+        "projectName": "Basic For-Loops Labs3",
+        "projectPath": "C:\\Grand_Circus\\Unit_Two_Lab\\Basic For-Loops Lab\\Basic For-Loops Labs3\\Basic For-Loops Labs3\\Basic For-Loops Labs3.csproj",
+        "packagesPath": "C:\\Users\\kmerc\\.nuget\\packages\\",
+        "outputPath": "C:\\Grand_Circus\\Unit_Two_Lab\\Basic For-Loops Lab\\Basic For-Loops Labs3\\Basic For-Loops Labs3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kmerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
